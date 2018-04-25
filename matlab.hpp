@@ -1,4 +1,4 @@
-#ifndef INCLUDE_MATLAB_HPP_
+#ifndef INCLUDE_MATLAB_HPP_<tutaj moja zmiana>
 #define INCLUDE_MATLAB_HPP_
 
 #include <cstddef>
